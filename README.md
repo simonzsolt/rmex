@@ -21,7 +21,7 @@
 az Eötvös Loránd Tudományegyetem Bölcsészettudományi Karának Magyar Irodalomtörténeti Intézetében, a Régi Magyar Irodalom Tanszékenés az Európai és magyar reneszánsz doktori programon.
 
 ###Made at 
-Literature Eötvös Loránd University at the Department of Early Hungarian Literature, Institute of Hungarian Literature and Cultural Studies, Faculty of Humanities.
+Eötvös Loránd University, Department of Early Hungarian Literature at the Institute of Hungarian Literature and Cultural Studies, Faculty of Humanities.
 
 **2014**
 
