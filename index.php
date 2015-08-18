@@ -89,7 +89,7 @@
 				var ImgHeight =  parseInt(strImg.replace("px", ""));
 				var TitleHeight =  parseInt(strTitle.replace("px", ""));
 				var margin = ImgHeight + TitleHeight + 25;
-				$('#impressum').attr("style", "margin-top:" + margin + "px; !important");
+				// $('#impressum').attr("style", "margin-top:" + margin + "px; !important");
 				// alert("strImg: " + strImg + " strTitle: " + strTitle + " ImgHeight: " + ImgHeight + " TitleHeight: " + TitleHeight + " margin: " + margin);
 			}); //img ready
 			
@@ -100,7 +100,7 @@
 					var ImgHeight =  parseInt(strImg.replace("px", ""));
 					var TitleHeight =  parseInt(strTitle.replace("px", ""));
 					var margin = ImgHeight + TitleHeight + 25;
-					$('#impressum').attr("style", "margin-top:" + margin + "px; !important");
+					// $('#impressum').attr("style", "margin-top:" + margin + "px; !important");
 				});// win res
 			}); //img ready
 		}); // doc ready
