@@ -34,7 +34,8 @@
 	
 	<div id="text_cont">
 		<div id="title_cont">
-			<a href="http://sermones.elte.hu/exemplumadatbazis/kereso"><span id="title_hu">Régi Magyar Exemplumadatbázis</span></br> 
+			<a href="http://sermones.elte.hu/exemplumadatbazis/kereso">
+			<span id="title_hu">Régi Magyar Exemplumadatbázis</span></br> 
 			<span id="title_en">Database of Old Hungarian Exempla</span></a>
 		</div>
 		

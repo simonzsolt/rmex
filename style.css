@@ -37,8 +37,6 @@ body {
 #index_header {
 	border: 0px solid red;
 	background-image: url("http://sermones.elte.hu/exemplumadatbazis/images/seamless1.jpg") !important;
-	position: fixed;
-	top: 0px;
 	width: 100%;
 	margin-top: 0px;
 }
@@ -67,8 +65,6 @@ body {
 	border: 0px solid red !important;
 	width: 100%;
 	background-color: #EEEEEE;
-	position: fixed;
-	top: 130px;
 	opacity: 1;
 }
 
