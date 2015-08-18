@@ -183,6 +183,7 @@
 					  <option value="bibliai alak">bibliai alak</option>
 					  <option value="középkori történelmi alak">középkori történelmi alak</option>
 					  <option value="állatok">állatok</option>
+					  <option value="allegorikus alakok">allegorikus alakok</option>
 					</select>
 				<br>
 				
@@ -209,12 +210,22 @@
 						<option value="természettudományos exemplu">természettudományos exemplum</option>
 						<option value="legendarészlet, születéstörténet">legendarészlet, születéstörténet</option>
 						<option value="legendarészlet, megtéréstörténet">legendarészlet, megtéréstörténet</option>
-						<option value="legendarészlet, a szent életében tett csodái">legendarészlet, a szent életében tett csodái</option>
+						
+						<option value="legendarészlet, a szent életében tett csodái">
+							legendarészlet, a szent életében tett csodái
+						</option>
+						
 						<option value="legendarészlet, passiótörténet">legendarészlet, passiótörténet</option>
 						<option value="legendarészlet, a szent halála után tett csodái">
 							legendarészlet, a szent halála után tett csodái</option>
 						<option value="drámai jellegű exemplum">drámai jellegű exemplum</option>
-						<option value="legendarészlet, a szent halálakor tett csodái">legendarészlet, a szent halálakor tett csodái</option>
+						<option value="legendarészlet, a szent halálakor tett csodái">
+							legendarészlet, a szent halálakor tett csodái
+						</option>
+						
+						<option value="legendarészlet, a szent tanításai">
+							legendarészlet, a szent tanításai
+						</option>
 					</select>
 				<br>
 				
