@@ -153,6 +153,8 @@ ul.ui-autocomplete.ui-menu li {
 	border-radius: 0px;
 	background-color: #dadada;
 	width: auto;
+	margin: 0px;
+	padding: 0px;
 }
 
 

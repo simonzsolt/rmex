@@ -88,7 +88,7 @@
 						<div id="kodex_form">
 					<label for="kodex_alegyseg1">Kódex alegység #1</label>
 						<input type="text" class="kodex_alegyseg" name="kodex_alegyseg_1" placeholder="Kódex alegység #1">
-						 <span>(alegységek hozzáadása) </span>  <a id="add_kodex" href="#"> [+]</a> 
+							<a id="add_kodex" href="#"> [+]</a> 
 						<div class="kodexlista"></div>			
 					</div>
 					
@@ -121,7 +121,7 @@
 					<div id="ksz_form">
 					<label for="kulcsszo1">Kulcsszó #1</label>
 						<input type="text" class="kulcsszavak" name="kulcsszo_1" placeholder="Kulcsszó #1">
-						 <span>(kulcsszavak hozzáadása) </span>  <a id="add_tag" href="#"> [+]</a> 
+							<a id="add_tag" href="#"> [+]</a> 
 						<div class="kulcslista"></div>			
 					</div>
 
