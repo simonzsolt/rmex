@@ -189,7 +189,7 @@
 				<div id="szereplok_form">
 					<label for="szereplok1">Szereplő #1</label> 
 					<input type="text" class="szereplok" name="szereplo_1" placeholder="Szereplő #1">
-					<span>(szereplők hozzáadása) </span>  <a id="add_szereplo" href="#"> [+]</a> 
+						<a id="add_szereplo" href="#"> [+]</a> 
 					<div class="szereplolista"></div>			
 				</div>	
 								

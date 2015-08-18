@@ -293,11 +293,10 @@ a:visited {
 
 #search_1 {
 	border: 0px solid green;
-	padding: 5px;
+	padding: 0px;
 	border-bottom: 0px solid black;
 	border-right: 0px solid black;
 	border-collapse: collapse;
-	padding: 5px 5px 0px 5px;
 }
 
 #search_1 label {
@@ -311,7 +310,8 @@ a:visited {
 
 #search_2 {
 	border: 0px solid red;
-	padding: 0px 5px 5px 5px;
+	/*padding: 0px 5px 5px 5px;*/
+	
 	border-right: 0px solid black;
 	border-collapse: collapse;
 }
@@ -331,7 +331,7 @@ a:visited {
 	border-left: 0px solid black;
 	border-collapse: collapse;
 	padding: 5px 0px 0px 0px;
-	width: 730px;
+	width: 715px;
 }
 
 #search_3 label {
