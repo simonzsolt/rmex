@@ -53,7 +53,7 @@ require 'adatbazis.php';
 					<option value="Winkler-kódex">Winkler-kódex</option>
 				</select>
 <br>
-</TD></TR><TR><TD>Oldalszám:</TD><TD><input type="text" name="oldalszam"><br>
+</TD></TR><TR><TD>Lap vagy levél:</TD><TD><input type="text" name="oldalszam"><br>
 </TD></TR><TR><TD>Modern kiadás:</TD><TD><input type="text" name="modern_kiadas"><br>
 </TD></TR><TR><TD>Kötet:</TD><TD><input type="text" name="kotet"><br>
 </TD></TR><TR><TD>Kötet oldalszáma:</TD><TD><input type="text" name="kotet_oldalszama"><br>

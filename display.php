@@ -54,7 +54,7 @@
 		
 		<div id="block_2">
 			<div class="block_a"  ><span class='res_cat'>Forráskódex: </span>  <?php echo $row_display['forraskodex'] ?>  </div>
-			<div class="block_a"  ><span class='res_cat'>Oldalszám:	</span> <?php echo $row_display['oldalszam'] ?>  </div>
+			<div class="block_a"  ><span class='res_cat'>Lap vagy levél:	</span> <?php echo $row_display['oldalszam'] ?>  </div>
 			<div class="block_a"  ><span class='res_cat'>Modern kiadás:	</span> <?php echo $row_display['modern_kiadas'] ?>  </div>
 			<div class="block_a"  ><span class='res_cat'>Kötet:	</span> <?php echo $row_display['kotet'] ?>  </div>
 			<div class="block_a"  ><span class='res_cat'>Kötet oldalszáma: </span><?php echo $row_display['kotet_oldalszama'] ?>  </div> 
