@@ -1,0 +1,343 @@
+body {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: justify;
+	background-color: #EEEEEE;
+	margin:0px;
+}
+
+#header {
+	margin: 0px;
+	border: 0px solid red;
+	width: auto;
+	height: 58px;
+	background-color: #bebebe;
+}
+
+#title {
+	font-family: Libre Baskerville, Georgia, serif;
+	font-size: 50px;
+	color:black;
+	padding: 0px;
+}
+
+#index {
+	font-family: Libre Baskerville, Georgia, serif;
+	font-weight: normal;
+	text-align: justify;
+	background-color: #EEEEEE;
+	margin:0px;
+}
+
+.imp_rows {
+	margin-bottom: 50px !important;
+}
+
+#index_header {
+	border: 0px solid red;
+	background-image: url("http://sermones.elte.hu/exemplumadatbazis/images/seamless1.jpg") !important;
+	width: 100%;
+	margin-top: 0px;
+}
+
+#index img {
+	max-height: 130px;
+}
+
+#index div {
+	border: 0px solid red;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#index a {
+	 text-decoration: none;
+	 color: black;
+}
+
+#text_cont {
+	border: 0px solid blue !important;
+}
+
+#title_cont {
+	border: 0px solid red !important;
+	width: 100%;
+	background-color: #EEEEEE;
+	opacity: 1;
+}
+
+#impressum {
+	border: 0px solid green !important;
+	margin-top: 0px;
+}
+
+#title_hu {
+	font-size: 3.8em;
+	font-weight: bold;
+	letter-spacing: 8px;
+	color: black;
+}
+
+#title_en {
+	font-size: 2.8em;
+	letter-spacing: 4px;
+}
+
+.index_cim {
+	font-size: 1.3em;
+}
+
+.index_nev {
+	font-style: italic;
+	font-size: 1.3em;
+}
+
+#ev {
+	font-size: 1em;
+}
+
+.index_text {
+	font-size: 1.2em;
+}
+
+
+
+form {
+	margin:0px;
+}
+
+#int_wrap {
+	width: auto;
+	background-color:#bebebe;
+}
+
+.interface {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	font-size: 14px;
+	width: 100%;
+}
+
+#interface{
+	border: 0px solid green;
+	height: auto;
+	width: 120px;
+	margin: auto;
+}
+
+.select {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.ac {
+  max-height: 300px;
+  overflow: auto;
+  width: auto;  
+}
+
+ul.ui-autocomplete.ui-menu li {
+	font-size: 14px;
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	background-color: white;
+}
+
+#formbox {
+	width: auto;
+	border: 0px solid black;
+}
+
+#formbox fieldset {
+	border: 0px solid black;
+	border-radius: 0px;
+	background-color: #dadada;
+	width: auto;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+#left {
+	float: left;
+	border-right: 0px solid black;
+}
+
+
+
+.kulcslista {
+	border: 0px solid red;
+}
+
+#talalatok {
+	border: 0px solid purple;
+	padding-left: 15px;
+	font-size: 22px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.frame_res {
+	font-size:15px;
+	border: 0px solid yellow;
+	background-color:#E2E2E2;
+	padding: 5px 25px 5px 25px;
+	margin-bottom: 10px;
+}
+
+#res_1 {
+	border: 0px solid red;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+.res_1_left {
+	border: 0px solid blue;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+
+#res_1_right { 
+	border: 0px solid yellow;
+	display: inline-block;
+	margin-right: 0px;
+}
+
+#res_2 {
+	border: 0px solid red;
+	margin-bottom: 0px;
+}
+
+.res_2_left {
+	border: 0px solid blue;
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+
+#res_2_right {
+	border: 0px solid orange;
+	display: inline-block;
+	margin-right: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#display_res { 
+	font-size:15px;
+	border: 0px solid yellow;
+	background-color:#eeeeee;
+	padding: 5px 25px 5px 25px;
+	margin-top: 20px;
+}
+
+.res_cat {
+	font-weight:bold;
+}
+
+
+#block_1 {
+	border: 0px solid blue;
+	width: 50%;
+	display: inline;
+	width: 50%;
+	float: right;
+}
+
+
+#szoveg {
+	width: auto !important;
+	padding: 0px 15px 15px 15px !important;
+	margin-top: 0px !important;
+}
+
+#exempl_szovege {
+	text-indent: 25px !important;
+	margin-top: 0px !important;
+}
+
+.block_a {
+	border: 0px solid green;
+	display: block;
+	margin-left: 0px;
+	margin-bottom: 15px;
+	padding: 2px 10px 2px 2px;
+	background-color:#E2E2E2;
+}
+
+#block_2 {
+	border: 0px solid pink;
+	width: 50%;
+}
+
+a:hover {
+	color: #0066FF;
+}
+
+a:visited {
+	color: #A3A3C2;
+}
+
+#szoveg {
+	border: 0px solid red;
+	width: 50%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+#search_1 {
+	border: 0px solid green;
+	padding: 0px;
+	border-bottom: 0px solid black;
+	border-right: 0px solid black;
+	border-collapse: collapse;
+}
+
+#search_1 label {
+	width: 15em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+	
+}
+
+#search_2 {
+	border: 0px solid red;
+	/*padding: 0px 5px 5px 5px;*/
+	
+	border-right: 0px solid black;
+	border-collapse: collapse;
+}
+
+#search_2 label {
+	width: 15em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+	
+}
+
+#search_3 {
+	float: left;
+	border: 0px solid blue;
+	border-left: 0px solid black;
+	border-collapse: collapse;
+	padding: 5px 0px 0px 0px;
+	width: 715px;
+}
+
+#search_3 label {
+	width: 24em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;	
+}
