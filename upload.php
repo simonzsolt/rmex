@@ -135,7 +135,7 @@ require 'adatbazis.php';
 </TD></TR><TR><TD>Latin forrás szövege:</TD><TD><input type="text" name="latin_forras"><br>
 </TD></TR><TR><TD>Katalógus szám:</TD><TD> <input type="text" name="katalogus_szam"><br>
 </TD></TR><TR><TD>Magyar nyelvű párhuzam:</TD><TD> <input type="text" name="magyar_parhuzam"><br>
-</TD></TR><TR><TD>Távolabbi párhuzam:</TD><TD> <input type="text" name="tavolabbi_parhuzam"><br>
+</TD></TR><TR><TD>Távolabbi magyar nyelvű párhuzam:</TD><TD> <input type="text" name="tavolabbi_parhuzam"><br>
 </TD></TR><TR><TD>Megjegyzés:</TD><TD> <input type="text" name="megjegyzes"><br>
 </TD></TR><TR><TD>Adatfelvivő neve:</TD><TD> <input type="text" name="adatfelvivo"><br>
 </TD></TR><TR><TD>Utolsó módosítás dátuma:</TD><TD>
