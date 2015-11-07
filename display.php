@@ -98,7 +98,7 @@
 			<div class="block_a"> <span class='res_cat'>Latin forrás szövege:	</span> <?php echo $row_display['latin_forras'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Katalógus szám:			</span> <?php echo $row_display['katalogus_szam'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Magyar nyelvű párhuzam:</span>  <?php echo $row_display['magyar_parhuzam'] ?>  </div> 
-			<div class="block_a"> <span class='res_cat'>Távolabbi párhuzam:		</span> <?php echo $row_display['tavolabbi_parhuzam'] ?>  </div> 
+			<div class="block_a"> <span class='res_cat'>Távolabbi magyar nyelvű párhuzam:		</span> <?php echo $row_display['tavolabbi_parhuzam'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Megjegyzés:		</span> <?php echo $row_display['megjegyzes'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Feltöltő neve:		</span> <?php echo $row_display['adatfelvivo'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Feltöltés dátuma:		
