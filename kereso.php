@@ -254,8 +254,8 @@
 				<label for="magyar_parhuzam">Magyar nyelvű párhuzam:</label> 
 					<input type="text" name="magyar_parhuzam" placeholder="Magyar nyelvű párhuzam" > <br>
 			
-				<label for="tavolabbi_parhuzam">Távolabbi párhuzam:</label> 
-					<input type="text" name="tavolabbi_parhuzam" placeholder="Távolabbi párhuzam" > <br>
+				<label for="tavolabbi_parhuzam">Távolabbi magyar nyelvű párhuzam:</label> 
+					<input type="text" name="tavolabbi_parhuzam" placeholder="Távolabbi magyar nyelvű párhuzam" > <br>
 			
 				<label for="megjegyzes">Megjegyzés:</label> 
 					<input type="text" name="megjegyzes" placeholder="Megjegyzés" > <br>
