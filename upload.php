@@ -79,10 +79,10 @@ require 'adatbazis.php';
 </TD></TR><TR><TD>Ünnep:</TD><TD> <input type="text" name="unnep"><br>
 </TD></TR><TR><TD>Az exemplum logikai előzménye:</TD><TD><input type="text" name="exempl_elozmeny"><br>
 </TD></TR><TR><TD>Igazolni kívánt tétel:</TD><TD> <input type="text" name="tetel"><br>
-</TD></TR><TR><TD>Exemplum-mivoltra utaló szó:</TD><TD><input type="text" name="exempl_utaloszo"><br>
+</TD></TR><TR><TD>Exemplum mivoltra utaló szó:</TD><TD><input type="text" name="exempl_utaloszo"><br>
 
-</TD></TR><TR><TD>Exemplum-bokor:</TD><TD> <input type="radio" name="exempl_bokor" value="igen" >igen <input type="radio" name="exempl_bokor" value="nem" checked="checked">nem<br>
-</TD></TR><TR><TD>Exemplum-bokor tagjai:</TD><TD><input type="text" name="exempl_bokor_tagok"><br>
+</TD></TR><TR><TD>Exemplumbokor:</TD><TD> <input type="radio" name="exempl_bokor" value="igen" >igen <input type="radio" name="exempl_bokor" value="nem" checked="checked">nem<br>
+</TD></TR><TR><TD>Exemplumbokor tagjai:</TD><TD><input type="text" name="exempl_bokor_tagok"><br>
 </TD></TR><TR><TD>Exemplumutalás:</TD><TD> <input type="radio" name="exemplutalas" value="igen">igen <input type="radio" name="exemplutalas" value="nem" checked="checked">nem<br>
 </TD></TR><TR><TD>Konklúzió, összefoglalás:</TD><TD> <input type="radio" name="konkluzio" value="igen" >igen <input type="radio" name="konkluzio" value="nem" checked="checked">nem<br>
 </TD></TR><TR><TD>Lezáró fohász:</TD><TD> <input type="radio" name="fohasz" value="igen">igen <input type="radio" name="fohasz" value="nem" checked="checked">nem<br>
