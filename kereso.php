@@ -134,10 +134,10 @@
 					<label for="tetel">Igazolni kívánt tétel:</label> 
 						<input type="text" name="tetel" placeholder="Igazolni kívánt tétel" > <br>
 						
-					<label for="exempl_utaloszo">Exemplum-mivoltra utaló szó:</label>
+					<label for="exempl_utaloszo">Exemplum mivoltra utaló szó:</label>
 						<input type="text" name="exempl_utaloszo" placeholder="Utaló szó" > <br>
 					
-					<label for="exempl_bokor">Exemplum-bokor:</label> 
+					<label for="exempl_bokor">Exemplumbokor:</label> 
 						<input type="radio" name="exempl_bokor" value="igen" >igen 
 						<input type="radio" name="exempl_bokor" value="nem" >nem <br>
 								
@@ -147,8 +147,8 @@
 			
 			<div id="search_3">
 			
-				<label for="exempl_bokor_tagok">Exemplum-bokor tagjai:</label>
-					<input type="text" name="exempl_bokor_tagok" placeholder="Exemplum-bokor tagjai" > <br>
+				<label for="exempl_bokor_tagok">Exemplumbokor tagjai:</label>
+					<input type="text" name="exempl_bokor_tagok" placeholder="Exemplumbokor tagjai" > <br>
 				
 				<label for="exemplutalas">Exemplumutalás:</label> 
 					<input type="radio" name="exemplutalas" value="igen">igen 
