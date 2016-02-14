@@ -73,9 +73,9 @@
 			<div class="block_a"> <span class='res_cat'>Ünnep:			</span> <?php echo $row_display['unnep'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Az exemplum logikai előzménye:</span>  <?php echo $row_display['exempl_elozmeny'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Igazolni kívánt tétel:</span>  <?php echo $row_display['tetel'] ?>  </div> 
-			<div class="block_a"> <span class='res_cat'>Exemplum-mivoltra utaló szó:</span>  <?php echo $row_display['exempl_utaloszo'] ?>  </div> 
-			<div class="block_a"> <span class='res_cat'>Exemplum bokor: 	</span> <?php echo $row_display['exempl_bokor'] ?>  </div> 
-			<div class="block_a"> <span class='res_cat'>Exemplum-bokor tagjai:	</span> <?php echo $row_display['exempl_bokor_tagok'] ?>  </div> 
+			<div class="block_a"> <span class='res_cat'>Exemplum mivoltra utaló szó:</span>  <?php echo $row_display['exempl_utaloszo'] ?>  </div> 
+			<div class="block_a"> <span class='res_cat'>Exemplumbokor: 	</span> <?php echo $row_display['exempl_bokor'] ?>  </div> 
+			<div class="block_a"> <span class='res_cat'>Exemplumbokor tagjai:	</span> <?php echo $row_display['exempl_bokor_tagok'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Exemplumutalás: 	</span> <?php echo $row_display['exemplutalas'] ?>  </div>      
 			<div class="block_a"> <span class='res_cat'>Konklúzió, összefoglalás: </span> <?php echo $row_display['konkluzio'] ?>  </div> 
 			<div class="block_a"> <span class='res_cat'>Lezáró fohász:	</span> <?php echo $row_display['fohasz'] ?>  </div> 
