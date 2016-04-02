@@ -72,6 +72,27 @@ body {
 	margin-top: 0px;
 }
 
+#menu {
+	display: inline-block;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+#menu a {
+	font-size: 2em;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 50px;
+}
+
+#menu a:hover {
+	color: #3673D4;
+}
+
+#menu a:active {
+	color: #2100C1;
+}
+
 #title_hu {
 	font-size: 3.8em;
 	font-weight: bold;

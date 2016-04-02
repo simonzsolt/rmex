@@ -38,6 +38,14 @@
 			<span id="title_hu">Régi Magyar Exemplumadatbázis</span></br> 
 			<span id="title_en">Database of Old Hungarian Exempla</span></a>
 		</div>
+
+		<div id="menu">
+
+			<a href="./foreword.html"> Előszó </a>
+			<a href="./toc.html"> A források tartalomjegyzéke </a>
+			<a href="http://sermones.elte.hu/exemplumadatbazis/kereso"> Összetett keresés </a>
+			
+		</div>
 		
 		<div id="impressum">
 		
