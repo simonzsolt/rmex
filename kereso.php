@@ -8,7 +8,7 @@
 	?>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="stylesheet" href="/exemplumadatbazis/java/jquery/jquery-ui.css" />
+	<link rel="stylesheet" href="/exemplumadatbazis/js/jquery/jquery-ui.css" />
 	<title>Exemplum - Kereső</title>
 	<meta name="author" content="Bartók Zsófia Ágnes">
 	<meta name="description" content="Régi Magyar Exemplumadatbázis: Kereső">
@@ -270,11 +270,11 @@
 	</form>
 </div>
 
-<script src="/exemplumadatbazis/java/jquery/jquery-1.11.1.min.js"></script>
-<script src="/exemplumadatbazis/java/jquery/jquery-ui.min.js"></script>
-<script src="/exemplumadatbazis/java/my_scripts_tags.js"></script>
-<script src="/exemplumadatbazis/java/my_scripts_sz.js"></script>
-<script src="/exemplumadatbazis/java/my_scripts_kodex.js"></script>
+<script src="/exemplumadatbazis/js/jquery/jquery-1.11.1.min.js"></script>
+<script src="/exemplumadatbazis/js/jquery/jquery-ui.min.js"></script>
+<script src="/exemplumadatbazis/js/my_scripts_tags.js"></script>
+<script src="/exemplumadatbazis/js/my_scripts_sz.js"></script>
+<script src="/exemplumadatbazis/js/my_scripts_kodex.js"></script>
 
 
 <?php 
